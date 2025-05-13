@@ -3,6 +3,9 @@
 
 ## Landing - https://steplab.es
 
+### Tech Stack
+- Astro
+
 ### Inspiration
 - https://deporwell.com/
 - https://www.scrapingbee.com/?ref=landings.dev
@@ -66,7 +69,17 @@ Posible editor de texto: [ej2-richtexteditor](https://www.npmjs.com/package/@syn
 
 
 ## Dashboard / App - https://app.steplab.es / https://dashboard.steplab.es
-...
+
+### Tech Stack
+- Next.js
+- PostgreeSQL
+- Tailwind
+
+### Inspiration
+https://tailadmin.com/
+
+### Sections
+....
 
 ## Dudas
 - ¿Que son ofertas?
